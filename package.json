@@ -1,7 +1,7 @@
 {
   "name": "@keyescode/formik",
   "private": true,
-  "version": 1.0.0,
+  "version": "1.0.0",
   "type": "module",
   "main": "packages/formik/dist/formik.cjs.js",
   "types": "packages/formik/dist/index.d.ts",
