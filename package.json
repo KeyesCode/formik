@@ -1,5 +1,5 @@
 {
-  "name": "formik-project",
+  "name": "@keyescode/formik",
   "private": true,
   "type": "module",
   "resolutions": {
