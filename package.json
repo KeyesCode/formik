@@ -2,6 +2,8 @@
   "name": "@keyescode/formik",
   "private": true,
   "type": "module",
+  "main": "packages/formik/dist/formik.cjs.js",
+  "types": "packages/formik/dist/index.d.ts",
   "resolutions": {
     "shelljs": "0.8.5",
     "typescript": "^4.0.0"
